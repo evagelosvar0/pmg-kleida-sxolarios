@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page number="1" position="absolute" top="0" left="0" height="1128" width="795">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+<image top="0" left="0" width="795" height="1129" src="html/p-512.pdf-1_1.jpg"/>
+<text top="54" left="81" width="24" height="13" font="0">456</text>
+<text top="54" left="206" width="60" height="13" font="0">ΑΙΩΝ  Θ'.</text>
+<text top="54" left="303" width="280" height="13" font="0">ΙΩΣΗΦ  Ο  ΥΜΝΟΓΡΑΦΟΣ  —   ΤΟΜΟΣ  105</text>
+<text top="103" left="283" width="59" height="15" font="1">Ι β Σ Π Φ  </text>
+<text top="103" left="359" width="13" height="15" font="1">Ο </text>
+<text top="103" left="389" width="110" height="15" font="1">ΪΜ Χ 0 Γ Ρ Α Φ 0 2</text>
+<text top="141" left="344" width="101" height="13" font="0">(;  I   89Β  Μ.Χ.)</text>
+<text top="191" left="82" width="12" height="13" font="0">* </text>
+<text top="191" left="109" width="218" height="13" font="0">Σημειώσεις  περί  αυτού&#34;  λατινιστί. </text>
+<text top="191" left="355" width="29" height="13" font="0">9 25.</text>
+<text top="211" left="81" width="10" height="13" font="0">* </text>
+<text top="211" left="109" width="275" height="13" font="0">Βίος του αγίου  Ιωσήφ  του  ύμνογράφου.932.</text>
+<text top="252" left="82" width="306" height="13" font="0">'  Υμνοι,  ήτοι  κανόνες  διάφοροι  εις  την  ύπεραγίαν </text>
+<text top="273" left="108" width="279" height="13" font="0">Θεοτόκον  και  αγίους  κατά  (χήνα,  άρεόμενοι </text>
+<text top="294" left="109" width="130" height="13" font="0">από  7  Σεπτεμβρίου. </text>
+<text top="294" left="302" width="81" height="13" font="0">9 8 4 — 1412.</text>
+<text top="314" left="82" width="161" height="13" font="0"><a href="">Κανών εις  φόβον  σεισμού. </a></text>
+<text top="314" left="347" width="37" height="13" font="0"><a href="">1416.</a></text>
+<text top="191" left="403" width="303" height="13" font="0"><a href="">Έγκώμιον  εις  τόν  άγιον  απόστολον  Βαρθολο­</a></text>
+<text top="211" left="429" width="109" height="13" font="0"><a href="">μαίον  λατινιστί. </a></text>
+<text top="211" left="668" width="36" height="13" font="0"><a href="">1421.</a></text>
+<text top="273" left="402" width="12" height="13" font="0">*  </text>
+<text top="273" left="429" width="274" height="13" font="0">Πίνα£  εις  τούς  ύμνους  Ιωσήφ&#34;  λατ.  1427.</text>
+<text top="293" left="402" width="12" height="13" font="0">* </text>
+<text top="293" left="429" width="275" height="13" font="0">Πίναζ  των  περιεχομένων  έν  τω  έκατοστω</text>
+<text top="314" left="428" width="163" height="13" font="0"><a href="">πέμπτω   τόμω*  λατινιστί </a></text>
+<text top="314" left="667" width="37" height="13" font="0"><a href="">1431.</a></text>
+<text top="370" left="241" width="305" height="15" font="2"><b>Τέλος  των  εν  τφ  έκατοστφ  πέμπτω  τόμω.</b></text>
+</page>
+</pdf2xml>
