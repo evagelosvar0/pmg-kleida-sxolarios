@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page number="1" position="absolute" top="0" left="0" height="1109" width="751">
+	<fontspec id="0" size="17" family="Times" color="#000000"/>
+	<fontspec id="1" size="5" family="Times" color="#000000"/>
+<image top="0" left="0" width="752" height="1109" src="html/p-052.pdf-1_1.jpg"/>
+<image top="464" left="607" width="144" height="645" src="html/p-052.pdf-1_2.jpg"/>
+<text top="333" left="745" width="4" height="17" font="0">ί</text>
+<text top="458" left="746" width="2" height="8" font="1">ί</text>
+</page>
+</pdf2xml>

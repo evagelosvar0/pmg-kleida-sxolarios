@@ -46,6 +46,21 @@ while ((m = regex.exec(strx)) !== null) {
 
 
 
+//function EditFile(){
+	//	var es = document.getElementsByTagName("text");
+	//	for (var i = 0; i < es.length; i++) {
+//		es[i].addEventListener('click', function(){
+  //       var person = prompt("Correct", this.innerHTML);
+ //        if (person != null) {
+ //       alert(this.innerHTML)
+//        alert(person)
+//    }
+        
+//});
+//}
+	
+//}
+
 
 
 

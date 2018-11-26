@@ -76,7 +76,7 @@ echo '</body></html>' >> "html/"`basename "$file"`.html
 
 
 
-exit
+#exit
 
 done
 exit
