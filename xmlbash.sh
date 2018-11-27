@@ -79,6 +79,11 @@ echo '</body></html>' >> "html/"`basename "$file"`.html
 #exit
 
 done
+#create index
+find html  -name "*.html" |sed -r 's@(.*)@<a href=\1>\1</a><br>@g'>"html/""index.html"
+
+
+
 exit
 for line in `cat "$file".xml`
 do
